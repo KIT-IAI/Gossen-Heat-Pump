@@ -4,6 +4,6 @@ This repo contains the Matlab and Python implementation for the submitted paper:
 # Repository Structure
 + 'Matlab': This folder contains the codes used for the implementation of Random Forest (RF), the modified persistence model and the validation of the proposed hypothesis.
 + 'Python': This folder contains the codes used for the implementation of LSTM and Transformer.
-+ 'Data': This folder contains the data source.
++ 'Data': This file contains the data source.
 # License
 This project is licensed under the terms of the MIT license. See the LICENSE file for details.
