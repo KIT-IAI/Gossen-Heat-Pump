@@ -1,6 +1,7 @@
 # Gossen's First Law in the Modeling for Demand Side Management: A Thorough Heat Pump Case Study with Deep Learning based partial Time Series Data Generation
-This repo contains the Matlab and Python implementation for the submitted paper:  
+This repo contains the Matlab and Python implementation for the paper:  
 > Chang Li, Gina Brecher, Jovana Kovačević, Hüseyin K. Çakmak, Kevin Förderer, Jörg Matthes, Veit Hagenmeyer. 2024. Gossen's First Law in the Modeling for Demand Side Management: A Thorough Heat Pump Case Study with Deep Learning based partial Time Series Data Generation. Energy Informatics.
+> DOI: https://doi.org/10.1186/s42162-024-00353-z
 # Repository Structure
 + 'Matlab': This folder contains the codes used for the implementation of Random Forest (RF), the modified persistence model and the validation of the proposed hypothesis.
 + 'Python': This folder contains the codes used for the implementation of LSTM and Transformer.
